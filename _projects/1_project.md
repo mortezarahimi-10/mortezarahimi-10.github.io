@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
+title: Machine learning
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/nice_cup.jpg
 importance: 1
 category: work
 related_publications: true
